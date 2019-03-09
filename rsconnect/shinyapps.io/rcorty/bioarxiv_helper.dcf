@@ -1,0 +1,12 @@
+name: bioarxiv_helper
+title: bioarxiv_helper
+username:
+account: rcorty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 778273
+bundleId: 1927747
+url: https://rcorty.shinyapps.io/bioarxiv_helper/
+when: 1552159187.05209
+asMultiple: FALSE
+asStatic: FALSE
